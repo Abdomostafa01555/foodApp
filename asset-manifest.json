@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodApp/static/css/main.94fb6a70.css",
+    "main.js": "/foodApp/static/js/main.98bca196.js",
+    "static/media/jump.jpg.jpg": "/foodApp/static/media/jump.jpg.c54b590774637a886984.jpg",
+    "static/media/about.png": "/foodApp/static/media/about.bf6d3bb7e51598b1e45f.png",
+    "static/media/contact.png": "/foodApp/static/media/contact.65132e89d05bbb91cfd7.png",
+    "static/media/family.jpg": "/foodApp/static/media/family.02956602e26348bdad65.jpg",
+    "static/media/logo.png": "/foodApp/static/media/logo.130c9f5df4a9c73771d0.png",
+    "static/media/chickens.jpg": "/foodApp/static/media/chickens.7d31d4011a346ce0d406.jpg",
+    "static/media/ouroffer.jpg": "/foodApp/static/media/ouroffer.fe945afda9ffd407d0db.jpg",
+    "static/media/jumpo.jpg": "/foodApp/static/media/jumpo.13adf77e04843f8990b2.jpg",
+    "static/media/chickens2.jpg": "/foodApp/static/media/chickens2.1d4bfaebe0f9f539885d.jpg",
+    "index.html": "/foodApp/index.html",
+    "main.94fb6a70.css.map": "/foodApp/static/css/main.94fb6a70.css.map",
+    "main.98bca196.js.map": "/foodApp/static/js/main.98bca196.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94fb6a70.css",
+    "static/js/main.98bca196.js"
+  ]
+}
